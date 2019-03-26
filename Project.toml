@@ -1,0 +1,12 @@
+name = "Advent2018"
+uuid = "9f1a9e9c-f47c-11e8-3287-8121518ae130"
+authors = ["Scott Olson <scott@solson.me>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
